@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html```
+<head>
+  <meta charset="UTF-8">
+  <title>My Webpage</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Webpage</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Webpage</h1>
+    </header>
+    
+    <main>
+        <h2>About Me</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis facilisis dui eu facilisis feugiat. Maecenas eu mauris lobortis, luctus urna sed, vehicula risus.</p>
+    </main>
+</body>
+</html>
+```
+CSS (styles.css):
+```css
+header {
+  background-color: #87CEEB;
+  text-align: center;
+}
